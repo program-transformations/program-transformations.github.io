@@ -52,14 +52,14 @@ Time | Activity
 In order to provide access to the members of the machine learning community who cannot attend NeurIPS in person, we are planning to arrange the video recording of all the talks delivered in the workshop and potentially live stream these on YouTube during the event. We will provide talk summaries, videos, and presentation slides on our workshop website, along with all accepted papers and corresponding posters. We are planning to publish a workshop summary following the event, highlighting the main emerging trends and subjects discussed in our workshop.
 
 # Previous related workshops
-In the past, we organized a similar workshop on AD for machine learning at NeurIPS (2016)[https://autodiff-workshop.github.io/2016.html] and (2017)[https://autodiff-workshop.github.io]. This year, we are broadening the scope of the workshop to involve more types of semantic program transformations, in particular for probabilistic programming, and hope to attract more experts in programming languages and compiler design as attendees.
+In the past, we organized a similar workshop on AD for machine learning at NeurIPS [2016](https://autodiff-workshop.github.io/2016.html) and [2017](https://autodiff-workshop.github.io). This year, we are broadening the scope of the workshop to involve more types of semantic program transformations, in particular for probabilistic programming, and hope to attract more experts in programming languages and compiler design as attendees.
 
-Another similar effort was started this year at POPL, where the probabilistic programming languages workshop (PPL) became “Languages for Inference” ((LAFI)[https://popl19.sigplan.org/track/lafi-2019]), bringing machine learning and differentiable programming into a programming languages conference. We believe that events with these goals should happen both in machine learning and programming language conferences, in order to help bridge these gaps and foster greater collaborations.
+Another similar effort was started this year at POPL, where the probabilistic programming languages workshop (PPL) became “Languages for Inference” ([LAFI](https://popl19.sigplan.org/track/lafi-2019)), bringing machine learning and differentiable programming into a programming languages conference. We believe that events with these goals should happen both in machine learning and programming language conferences, in order to help bridge these gaps and foster greater collaborations.
 
 # Biographies
 ## Confirmed Keynote Speakers
 
-*Jan-Willem van de Meent*, assistant professor at Northeastern University. He is working on probabilistic programming frameworks at the intersection with machine learning, and co-author of (“An Introduction to Probabilistic Programming”)[https://arxiv.org/abs/1809.10756].
+*Jan-Willem van de Meent*, assistant professor at Northeastern University. He is working on probabilistic programming frameworks at the intersection with machine learning, and co-author of [“An Introduction to Probabilistic Programming”](https://arxiv.org/abs/1809.10756).
 
 *Soumith Chintala* is a Researcher at Facebook AI Research, where he works on deep learning, reinforcement learning, generative image models, agents for video games and large-scale high-performance deep learning. Prior to joining Facebook in August 2014, he worked at MuseAmi, where he built deep learning models for music and vision targeted at mobile devices. He holds a Masters in CS from NYU, and spent time in Yann LeCun’s NYU lab building deep learning models for pedestrian detection, natural image OCR, depth-images among others.
 
@@ -76,7 +76,7 @@ http://www.robots.ox.ac.uk/~gunes/
 https://scholar.google.ca/citations?user=XE9SDzgAAAAJ
 
 *Pascal Lamblin* is a research engineer at Google Brain. After completing an engineering degree at École Centrale Paris, he has done research under the supervision of Yoshua Bengio at Université de Montréal where he also worked on the development of Theano.
-- https://scholar.google.ca/citations?user=bn4xHHIAAAAJ
+https://scholar.google.ca/citations?user=bn4xHHIAAAAJ
 
 *Emily Fertig* is an AI Resident in Google Research, working on quantifying uncertainty in the predictions of deep neural networks, for the purpose of improving risk management and decision-making under uncertainty in machine-learning systems. Previously she worked as a technical consultant and data scientist in the electricity industry, researched numerical methods for climate policy decision-making at MIT and Penn State, and completed a Ph.D. in Engineering and Public Policy at Carnegie Mellon.
 https://ai.google/research/people/EmilyFertig
