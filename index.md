@@ -67,8 +67,7 @@ Another similar effort was started this year at POPL, where the probabilistic pr
 
 ## Organizing committee
 **Alex Wiltschko** is a research scientist at Google Brain, focusing on building more flexible machine learning software systems, and also applications of machine learning to biology and chemistry. He completed his PhD in Neurobiology at Harvard, focusing on quantifying animal body language using depth cameras and time-series modeling. Alex also co-organizes a regular symposium on the intersection of machine learning and biology.
-
-https://scholar.google.com/citations?user=GPnusKcAAAAJ
+[https://scholar.google.com/citations?user=GPnusKcAAAAJ](https://scholar.google.com/citations?user=GPnusKcAAAAJ)
 
 **Atılım Güneş Baydin** is a postdoctoral researcher at the University of Oxford, focusing on probabilistic programming and applications of machine learning to fundamental sciences. He is also a research consultant to Microsoft Research Cambridge and an AI Technical Committee member at NASA Frontier Development Lab. He is the author DiffSharp, a library for differentiable functional programming, and pyprob, a probabilistic programming system. Güneş was a co-organizer of the Deep Learning for Physical Sciences workshop at NeurIPS 2017.
 
