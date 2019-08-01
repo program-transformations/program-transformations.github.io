@@ -74,7 +74,7 @@ Another similar effort was started this year at POPL, where the probabilistic pr
 
 [http://www.robots.ox.ac.uk/~gunes/](http://www.robots.ox.ac.uk/~gunes/)
 
-<br>**Bart van Merriënboer** is a research engineer at Google Brain, who recently completed his PhD at Mila under the supervision of Yoshua Bengio. His work focuses on the application of deep learning to natural language processing and the development of machine learning tools and frameworks. He previously contributed to ML frameworks such as Theano, Torch, torch-autograd, and Blocks/Fuel. 
+<br>**Bart van Merriënboer** is a research scientist at Google Brain, who recently completed his PhD at Mila under the supervision of Yoshua Bengio. His work focuses on the application of deep learning to natural language processing and the development of machine learning tools and frameworks. He previously contributed to ML frameworks such as Theano, Torch, torch-autograd, and Blocks/Fuel and is an author of the Tangent and Myia frameworks.
 
 [https://scholar.google.ca/citations?user=XE9SDzgAAAAJ](https://scholar.google.ca/citations?user=XE9SDzgAAAAJ)
 
