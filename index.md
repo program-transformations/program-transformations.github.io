@@ -27,6 +27,9 @@ The timeline for submissions is as follows:
 - Friday 27 September, 2019: Decision deadline
 - Tuesday October 1, 2019: NeurIPS notification deadline
 
+# Travel & registration support
+We are planning to get sponsorship funding in order to support a part of the registration and/or travel costs of a number of attendees. If you require such assistance please let the organizers know by sending an email at the time of paper submission. More information will be available in due course.
+
 # Tentative schedule
 The aim of our workshop is to bridge the gap between several research communities. We will use a format that includes a relatively large number of talks (10) with the aim of covering breadth rather than depth, allowing people from different backgrounds to make relevant connections. The poster session will be the opportunity for small groups to form and discuss topics of interest. The day will conclude with a panel to kickstart discussions that we hope will continue after the workshop has ended (i.e, on how to improve existing ML tooling, or the exploration of modern PL ideas in the context of ML).
 
@@ -48,7 +51,7 @@ Time | Activity
 16:10–17:00| Keynote 4
 17:00–18:00| Panel and general discussion
 
-# Access
+# Access to content
 In order to provide access to the members of the machine learning community who cannot attend NeurIPS in person, we are planning to arrange the video recording of all the talks delivered in the workshop and potentially live stream these on YouTube during the event. We will provide talk summaries, videos, and presentation slides on our workshop website, along with all accepted papers and corresponding posters. We are planning to publish a workshop summary following the event, highlighting the main emerging trends and subjects discussed in our workshop.
 
 # Previous related workshops
