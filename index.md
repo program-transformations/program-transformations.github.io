@@ -27,7 +27,7 @@ The timeline for submissions is as follows:
 - Friday 27 September, 2019: Decision deadline
 - Tuesday October 1, 2019: NeurIPS notification deadline
 
-# Travel & registration support
+## Travel & registration support
 We are planning to get sponsorship funding in order to support a part of the registration and/or travel costs of a number of attendees. If you require such assistance please let the organizers know by sending an email at the time of paper submission. More information will be available in due course.
 
 # Tentative schedule
