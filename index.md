@@ -21,9 +21,9 @@ Up to 6 submissions will be selected to give a contributed talk. The talks will 
 
 The timeline for submissions is as follows:
 - Monday 5 August, 2019: Submissions open
-- Friday 30 August, 2019: Submissions deadline
-- Wednesday 4 September, 2019: Reviewing period starts
-- Friday 20 September, 2019: Reviews due
+- Monday 16 September, 2019: Submissions deadline
+- Wednesday 18 September, 2019: Reviewing period starts
+- Wednesday 25 September, 2019: Reviews due
 - Friday 27 September, 2019: Decision deadline
 - Tuesday October 1, 2019: NeurIPS notification deadline
 
