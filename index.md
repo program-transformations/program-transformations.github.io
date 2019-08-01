@@ -67,33 +67,34 @@ Another similar effort was started this year at POPL, where the probabilistic pr
 
 ## Organizing committee
 **Alex Wiltschko** is a research scientist at Google Brain, focusing on building more flexible machine learning software systems, and also applications of machine learning to biology and chemistry. He completed his PhD in Neurobiology at Harvard, focusing on quantifying animal body language using depth cameras and time-series modeling. Alex also co-organizes a regular symposium on the intersection of machine learning and biology.
+
 [https://scholar.google.com/citations?user=GPnusKcAAAAJ](https://scholar.google.com/citations?user=GPnusKcAAAAJ)
 
 **Atılım Güneş Baydin** is a postdoctoral researcher at the University of Oxford, focusing on probabilistic programming and applications of machine learning to fundamental sciences. He is also a research consultant to Microsoft Research Cambridge and an AI Technical Committee member at NASA Frontier Development Lab. He is the author DiffSharp, a library for differentiable functional programming, and pyprob, a probabilistic programming system. Güneş was a co-organizer of the Deep Learning for Physical Sciences workshop at NeurIPS 2017.
 
-http://www.robots.ox.ac.uk/~gunes/
+[http://www.robots.ox.ac.uk/~gunes/](http://www.robots.ox.ac.uk/~gunes/)
 
 **Bart van Merriënboer** is a research engineer at Google Brain, who recently completed his PhD at Mila under the supervision of Yoshua Bengio. His work focuses on the application of deep learning to natural language processing and the development of machine learning tools and frameworks. He previously contributed to ML frameworks such as Theano, Torch, torch-autograd, and Blocks/Fuel. 
 
-https://scholar.google.ca/citations?user=XE9SDzgAAAAJ
+[https://scholar.google.ca/citations?user=XE9SDzgAAAAJ](https://scholar.google.ca/citations?user=XE9SDzgAAAAJ)
 
 **Pascal Lamblin** is a research engineer at Google Brain. After completing an engineering degree at École Centrale Paris, he has done research under the supervision of Yoshua Bengio at Université de Montréal where he also worked on the development of Theano.
 
-https://scholar.google.ca/citations?user=bn4xHHIAAAAJ
+[https://scholar.google.ca/citations?user=bn4xHHIAAAAJ](https://scholar.google.ca/citations?user=bn4xHHIAAAAJ)
 
 **Emily Fertig** is an AI Resident in Google Research, working on quantifying uncertainty in the predictions of deep neural networks, for the purpose of improving risk management and decision-making under uncertainty in machine-learning systems. Previously she worked as a technical consultant and data scientist in the electricity industry, researched numerical methods for climate policy decision-making at MIT and Penn State, and completed a Ph.D. in Engineering and Public Policy at Carnegie Mellon.
 
-https://ai.google/research/people/EmilyFertig
+[https://ai.google/research/people/EmilyFertig](https://ai.google/research/people/EmilyFertig)
 
 **Barak Pearlmutter** is a professor at Maynooth University in Ireland. His research spans adaptive systems, neural networks, machine learning, acoustic source separation and localization, neuroscience, and programming language design and implementation. He is a leading expert in functional automatic differentiation. He has a Ph.D. in Computer Science from Carnegie Mellon University.
 
-http://barak.pearlmutter.net
+[http://barak.pearlmutter.net](http://barak.pearlmutter.net)
 
 **Laurent Hascoët** is a Research Director at INRIA Sophia-Antipolis. His research focuses on software tools for scientific computing, partial evaluation and automatic parallelisation, and automatic differentiation. He is known for promoting the use of AD in the scientific computation community, including applications of AD technology to real programs, but also the definition of methodologies for a clever use of AD derivatives in optimization problems or inverse problems.
 
-http://www-sop.inria.fr/members/Laurent.Hascoet/
+[http://www-sop.inria.fr/members/Laurent.Hascoet/](http://www-sop.inria.fr/members/Laurent.Hascoet/)
 
 **David Duvenaud** is an assistant professor in computer science and statistics at the University of Toronto.  He holds a Canada Research Chair in generative models.  His postdoctoral research was done at Harvard University, where he worked on hyperparameter optimization, variational inference, and chemical design. He did his Ph.D. at the University of Cambridge, studying Bayesian nonparametrics with Zoubin Ghahramani and Carl Rasmussen.  David spent two summers in the machine vision team at Google Research, and also co-founded Invenia, an energy forecasting and trading company.  David is a founding member of the Vector Institute and a Faculty Fellow at ElementAI.
 
-http://www.cs.toronto.edu/~duvenaud/
+[http://www.cs.toronto.edu/~duvenaud/](http://www.cs.toronto.edu/~duvenaud/)
 
