@@ -62,9 +62,11 @@ Another similar effort was started this year at POPL, where the probabilistic pr
 # Biographies
 ## Confirmed Keynote Speakers
 
-**Jan-Willem van de Meent**, assistant professor at Northeastern University. He is working on probabilistic programming frameworks at the intersection with machine learning, and co-author of [“An Introduction to Probabilistic Programming”](https://arxiv.org/abs/1809.10756).
+**Jan-Willem van de Meent** is an assistant professor at Northeastern University. He is working on probabilistic programming frameworks at the intersection with machine learning, and co-author of [“An Introduction to Probabilistic Programming”](https://arxiv.org/abs/1809.10756).
 
 **Soumith Chintala** is a Researcher at Facebook AI Research, where he works on deep learning, reinforcement learning, generative image models, agents for video games and large-scale high-performance deep learning. Prior to joining Facebook in August 2014, he worked at MuseAmi, where he built deep learning models for music and vision targeted at mobile devices. He holds a Masters in CS from NYU, and spent time in Yann LeCun’s NYU lab building deep learning models for pedestrian detection, natural image OCR, depth-images among others.
+
+**Christine Tasson** is an associate professor at Université de Paris. Her research areas are at the boundary of Computer Science, Mathematics and Logics. She is interested in denotational semantics and its applications to distributed systems and functional probabilistic programming.
 
 **Matt Johnson** is a research scientist at Google Brain interested in probabilistic models, approximate inference algorithms, and software systems to support them. He works on JAX, a system for composable function transformations in Python. His other recent work includes composing graphical models with neural networks to leverage specialized inference algorithms, automatically recognizing and exploiting conjugacy structure for approximate integration without a domain-specific language, and model-based reinforcement learning from pixels with structured latent variable models.
 
