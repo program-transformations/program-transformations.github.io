@@ -6,21 +6,23 @@ Program transformations are an area of active study. AD transforms a program per
 This workshop will bring together researchers in the fields of AD, programming languages, compilers, and ML, with the goal of understanding the commonalities between disparate approaches and views, and sharing ways to make these techniques broadly available. It would enable ML practitioners to iterate faster on novel models and architectures (e.g., those naturally expressed through high-level constructs like recursion).
 
 ## Topics
-- Abstractions and syntax (beyond meta-programming and operator overloading) to naturally express a program (expression, or procedure) as an object to be manipulated.
+- Abstractions and syntax (beyond meta-programming and operator overloading) to naturally express a program (expression, or procedure) as an object to be manipulated
 - Techniques from AD and PPL the ML community could adopt to enable research on new models
 - How to overcome challenges due to the ML’s specific hardware (GPUs, specialized chips) and software (Python) stacks, and the particular demands of practitioners for their tools
 - Greater collaboration between ML and programming languages communities
 
 # Submissions
-We will solicit contributions bridging the gap between the AD, (P)PL, ML and/or compiler/systems communities. Submissions should be 2 to 4 pages extended abstracts. They do not need to be anonymized. Submissions are non-archival. Work can include:
+We are soliciting contributions bridging the gap between the AD, (P)PL, ML and/or compiler/systems communities. Submissions should be 2 to 4 pages extended abstracts. They do not need to be anonymized. Submissions are non-archival. Work can include:
 - recent work on these topics which was published in non-ML venues;
 - preliminary or novel work demonstrating applications of program transformation techniques to ML (but not finalized work already published);
 - a summary of multiple previous contributions on program transformation techniques with potential applications for ML.
 
+Please submit your abstracts at (openreview.net/group?id=NeurIPS.cc/2019/Workshop/Program_Transformations)[https://openreview.net/group?id=NeurIPS.cc/2019/Workshop/Program_Transformations].
+
 Up to 6 submissions will be selected to give a contributed talk. The talks will be selected based on the quality of the submission, and with the aim of spanning the different research disciplines that this workshop aims to engage. Remaining submission will be considered for a poster session. Submissions will be reviewed by at least two, ideally three, people from the organizing committee, and will not be reviewed by people with a conflict of interest (i.e., a shared affiliation within the past 3 years).
 
 The timeline for submissions is as follows:
-- Monday 5 August, 2019: Submissions open
+- Monday 12 August, 2019: Submissions open
 - Monday 16 September, 2019: Submissions deadline
 - Wednesday 18 September, 2019: Reviewing period starts
 - Wednesday 25 September, 2019: Reviews due
