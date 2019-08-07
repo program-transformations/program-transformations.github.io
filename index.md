@@ -17,7 +17,7 @@ We are soliciting contributions bridging the gap between the AD, (P)PL, ML and/o
 - preliminary or novel work demonstrating applications of program transformation techniques to ML (but not finalized work already published);
 - a summary of multiple previous contributions on program transformation techniques with potential applications for ML.
 
-Please submit your abstracts at (openreview.net/group?id=NeurIPS.cc/2019/Workshop/Program_Transformations)[https://openreview.net/group?id=NeurIPS.cc/2019/Workshop/Program_Transformations].
+Please submit your abstracts at [openreview.net/group?id=NeurIPS.cc/2019/Workshop/Program_Transformations](https://openreview.net/group?id=NeurIPS.cc/2019/Workshop/Program_Transformations).
 
 Up to 6 submissions will be selected to give a contributed talk. The talks will be selected based on the quality of the submission, and with the aim of spanning the different research disciplines that this workshop aims to engage. Remaining submission will be considered for a poster session. Submissions will be reviewed by at least two, ideally three, people from the organizing committee, and will not be reviewed by people with a conflict of interest (i.e., a shared affiliation within the past 3 years).
 
