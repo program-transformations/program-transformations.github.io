@@ -70,7 +70,8 @@ Another similar effort was started this year at POPL, where the probabilistic pr
 
 **Christine Tasson** is an associate professor at Université de Paris. Her research areas are at the boundary of Computer Science, Mathematics and Logics. She is interested in denotational semantics and its applications to distributed systems and functional probabilistic programming.
 
-**Matt Johnson** is a research scientist at Google Brain interested in probabilistic models, approximate inference algorithms, and software systems to support them. He works on JAX, a system for composable function transformations in Python. His other recent work includes composing graphical models with neural networks to leverage specialized inference algorithms, automatically recognizing and exploiting conjugacy structure for approximate integration without a domain-specific language, and model-based reinforcement learning from pixels with structured latent variable models.
+**Skye Wanderman-Milne** is a software engineer at Google Brain working on JAX, a system for composable function transformations in Python. Prior to that, she has worked on TensorFlow and Cloudera Impala, a high-performance distributed database.
+
 
 ## Organizing committee
 **Alex Wiltschko** [[link](https://scholar.google.com/citations?user=GPnusKcAAAAJ)] is a research scientist at Google Brain, focusing on building more flexible machine learning software systems, and also applications of machine learning to biology and chemistry. He completed his PhD in Neurobiology at Harvard, focusing on quantifying animal body language using depth cameras and time-series modeling. Alex also co-organizes a regular symposium on the intersection of machine learning and biology.
