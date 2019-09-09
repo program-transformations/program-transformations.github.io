@@ -1,3 +1,8 @@
+# News
+- [Submissions](#submissions) are open until **September 16th** at [openreview.net/group?id=NeurIPS.cc/2019/Workshop/Program_Transformations](https://openreview.net/group?id=NeurIPS.cc/2019/Workshop/Program_Transformations).
+- The workshop will take place on **Saturday, Dec. 14th**.
+- Authors of submitted papers are encouraged to **join the ticket lottery**, a we may not have enough reserved tickets.
+
 # Summary
 Machine learning researchers often express complex models as a program, relying on program transformations to add functionality. New languages and transformations (e.g., TorchScript and TensorFlow AutoGraph) are becoming core capabilities of ML libraries. However, existing transformations, such as **automatic differentiation (AD or autodiff)**, inference in **probabilistic programming languages (PPLs)**, and optimizing compilers are often built in isolation, and limited in scope. This workshop aims at viewing program transformations in ML in a unified light, making these capabilities more accessible, and building entirely new ones.
 
