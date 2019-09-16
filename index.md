@@ -1,5 +1,5 @@
 # News
-- [Submissions](#submissions) are open until **September 16th** at [openreview.net/group?id=NeurIPS.cc/2019/Workshop/Program_Transformations](https://openreview.net/group?id=NeurIPS.cc/2019/Workshop/Program_Transformations).
+- [Submissions](#submissions) are open until **September 16th** (anywhere on Earth) at [openreview.net/group?id=NeurIPS.cc/2019/Workshop/Program_Transformations](https://openreview.net/group?id=NeurIPS.cc/2019/Workshop/Program_Transformations).
 - The workshop will take place on **Saturday, Dec. 14th**.
 - Authors of submitted papers are encouraged to **[join the ticket lottery](https://neurips.cc/Register2)** before September 20th ([more information](https://neurips.cc/Conferences/2019/Press?article=2299)), as we may not have enough reserved tickets.
 
