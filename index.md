@@ -1,5 +1,5 @@
 # News
-- [Submissions](#submissions) are open until **September 16th** (anywhere on Earth) at [openreview.net/group?id=NeurIPS.cc/2019/Workshop/Program_Transformations](https://openreview.net/group?id=NeurIPS.cc/2019/Workshop/Program_Transformations).
+- [Submissions](#submissions) deadline extended until **September 21st** (Saturday, anywhere on Earth) at [openreview.net/group?id=NeurIPS.cc/2019/Workshop/Program_Transformations](https://openreview.net/group?id=NeurIPS.cc/2019/Workshop/Program_Transformations).
 - The workshop will take place on **Saturday, Dec. 14th**.
 - Authors of submitted papers are encouraged to **[join the ticket lottery](https://neurips.cc/Register2)** before September 20th ([more information](https://neurips.cc/Conferences/2019/Press?article=2299)), as we may not have enough reserved tickets.
 
@@ -28,9 +28,9 @@ Up to 6 submissions will be selected to give a contributed talk. The talks will 
 
 The timeline for submissions is as follows:
 - Monday 12 August, 2019: Submissions open
-- Monday 16 September, 2019: Submissions deadline
-- Wednesday 18 September, 2019: Reviewing period starts
-- Wednesday 25 September, 2019: Reviews due
+- Saturday 21 September, 2019: Submissions deadline
+- Monday 23 September, 2019: Reviewing period starts
+- Thursday 26 September, 2019: Reviews due
 - Friday 27 September, 2019: Decision deadline
 - Tuesday October 1, 2019: NeurIPS notification deadline
 
