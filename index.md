@@ -30,8 +30,8 @@ The timeline for submissions is as follows:
 - Monday 12 August, 2019: Submissions open
 - Saturday 21 September, 2019: Submissions deadline
 - Monday 23 September, 2019: Reviewing period starts
-- Thursday 26 September, 2019: Reviews due
-- Friday 27 September, 2019: Decision deadline
+- Friday 27 September, 2019: Reviews due
+- Monday 30 September, 2019: Decision deadline
 - Tuesday October 1, 2019: NeurIPS notification deadline
 
 ## Travel & registration support
