@@ -1,7 +1,8 @@
 # News
-- [Submissions](#submissions) deadline extended until **September 21st** (Saturday, anywhere on Earth) at [openreview.net/group?id=NeurIPS.cc/2019/Workshop/Program_Transformations](https://openreview.net/group?id=NeurIPS.cc/2019/Workshop/Program_Transformations).
+- Reviews are available on [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2019/Workshop/Program_Transformations). Decisions will be out soon.
 - The workshop will take place on **Saturday, Dec. 14th**.
 - Authors of submitted papers are encouraged to **[join the ticket lottery](https://neurips.cc/Register2)** before September 20th ([more information](https://neurips.cc/Conferences/2019/Press?article=2299)), as we may not have enough reserved tickets.
+- [Submissions](#submissions) window closed on **September 21st** (Saturday, anywhere on Earth) at [openreview.net/group?id=NeurIPS.cc/2019/Workshop/Program_Transformations](https://openreview.net/group?id=NeurIPS.cc/2019/Workshop/Program_Transformations).
 
 # Summary
 Machine learning researchers often express complex models as a program, relying on program transformations to add functionality. New languages and transformations (e.g., TorchScript and TensorFlow AutoGraph) are becoming core capabilities of ML libraries. However, existing transformations, such as **automatic differentiation (AD or autodiff)**, inference in **probabilistic programming languages (PPLs)**, and optimizing compilers are often built in isolation, and limited in scope. This workshop aims at viewing program transformations in ML in a unified light, making these capabilities more accessible, and building entirely new ones.
@@ -37,26 +38,28 @@ The timeline for submissions is as follows:
 ## Travel & registration support
 We are planning to get sponsorship funding in order to support a part of the registration and/or travel costs of a number of attendees. If you require such assistance please let the organizers know by sending an email at the time of paper submission. More information will be available in due course.
 
-# Tentative schedule
-The aim of our workshop is to bridge the gap between several research communities. We will use a format that includes a relatively large number of talks (10) with the aim of covering breadth rather than depth, allowing people from different backgrounds to make relevant connections. The poster session will be the opportunity for small groups to form and discuss topics of interest. The day will conclude with a panel to kickstart discussions that we hope will continue after the workshop has ended (i.e, on how to improve existing ML tooling, or the exploration of modern PL ideas in the context of ML).
+# Schedule
+See the [official schedule](https://neurips.cc/Conferences/2019/Schedule?showEvent=13188).
 
 Time | Activity
 -----|----------
-08:50–09:00| Introduction
-09:00–09:50| Keynote 1
-09:50–10:10| Contributed talk 1
-10:10–10:30| Contributed talk 2
-10:30–11:00| Coffee break
-11:00–11:50| Keynote 2
-11:50–12:10| Contributed talk 3
-12:10–13:50| Lunch and poster session
-13:50–14:40| Keynote 3
-14:40–15:00| Contributed talk 4
-15:00–15:30| Coffee break
-15:30–15:50| Contributed talk 5
-15:50–16:10| Contributed talk 6
-16:10–17:00| Keynote 4
-17:00–18:00| Panel and general discussion
+08:30–08:40| Introduction and opening statements
+08:40–09:30| Keynote – Jan-Willem van de Meent – TBA
+09:30–09:50| Contributed talk 1
+09:50–10:30| Coffee break
+10:30–11:20| Keynote – Christine Tasson – TBA
+11:20–11:40| Contributed talk 2
+11:40–12:00| Contributed talk 3
+12:00–14:00| Lunch and poster session
+14:00–14:50| Keynote – Soumith Chintala – TBA
+14:50–15:40| Keynote – Skye Wanderman-Milne – TBA
+15:40–16:20| Coffee break
+16:20–16:40| Contributed talk 4
+16:40–17:00| Contributed talk 5
+17:00–17:20| Contributed talk 6
+17:20–18:00| Panel and general discussion
+
+The aim of our workshop is to bridge the gap between several research communities. We will use a format that includes a relatively large number of talks (10) with the aim of covering breadth rather than depth, allowing people from different backgrounds to make relevant connections. The poster session will be the opportunity for small groups to form and discuss topics of interest. The day will conclude with a panel to kickstart discussions that we hope will continue after the workshop has ended (i.e, on how to improve existing ML tooling, or the exploration of modern PL ideas in the context of ML).
 
 # Access to content
 In order to provide access to the members of the machine learning community who cannot attend NeurIPS in person, we are planning to arrange the video recording of all the talks delivered in the workshop and potentially live stream these on YouTube during the event. We will provide talk summaries, videos, and presentation slides on our workshop website, along with all accepted papers and corresponding posters. We are planning to publish a workshop summary following the event, highlighting the main emerging trends and subjects discussed in our workshop.
