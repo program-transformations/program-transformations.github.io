@@ -1,8 +1,7 @@
 # News
-- Reviews are available on [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2019/Workshop/Program_Transformations). Decisions will be out soon.
-- The workshop will take place on **Saturday, Dec. 14th**.
-- Authors of submitted papers are encouraged to **[join the ticket lottery](https://neurips.cc/Register2)** before September 20th ([more information](https://neurips.cc/Conferences/2019/Press?article=2299)), as we may not have enough reserved tickets.
-- [Submissions](#submissions) window closed on **September 21st** (Saturday, anywhere on Earth) at [openreview.net/group?id=NeurIPS.cc/2019/Workshop/Program_Transformations](https://openreview.net/group?id=NeurIPS.cc/2019/Workshop/Program_Transformations).
+- Decisions have been sent to the authors, and will be soon available on [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2019/Workshop/Program_Transformations).
+- The schedule is available [here](#schedule) and on the [official site](https://neurips.cc/Conferences/2019/Schedule?showEvent=13188).
+- The workshop will take place on **Saturday, Dec. 14th**, West Level 1, **Room 114+115**.
 
 # Summary
 Machine learning researchers often express complex models as a program, relying on program transformations to add functionality. New languages and transformations (e.g., TorchScript and TensorFlow AutoGraph) are becoming core capabilities of ML libraries. However, existing transformations, such as **automatic differentiation (AD or autodiff)**, inference in **probabilistic programming languages (PPLs)**, and optimizing compilers are often built in isolation, and limited in scope. This workshop aims at viewing program transformations in ML in a unified light, making these capabilities more accessible, and building entirely new ones.
@@ -44,20 +43,20 @@ See the [official schedule](https://neurips.cc/Conferences/2019/Schedule?showEve
 Time | Activity
 -----|----------
 08:30–08:40| Introduction and opening statements
-08:40–09:30| Keynote – Jan-Willem van de Meent – TBA
-09:30–09:50| Contributed talk 1
+08:40–09:30| **Jan-Willem van de Meent** – TBA
+09:30–09:50| **Applications of a disintegration transformations** [[abstract](https://openreview.net/forum?id=r1xwBU5Vwr)]
 09:50–10:30| Coffee break
-10:30–11:20| Keynote – Christine Tasson – TBA
-11:20–11:40| Contributed talk 2
-11:40–12:00| Contributed talk 3
-12:00–14:00| Lunch and poster session
-14:00–14:50| Keynote – Soumith Chintala – TBA
-14:50–15:40| Keynote – Skye Wanderman-Milne – TBA
+10:30–11:20| **Christine Tasson** – TBA
+11:20–11:40| **The Differentiable Curry** [[abstract](https://openreview.net/forum?id=ryxuz9SzDB)]
+11:40–12:00| Functional Tensors for Probabilistic Programming [[abstract](https://openreview.net/forum?id=HkecHuIaUS)]
+12:00–14:00| Lunch and **poster session**
+14:00–14:50| **Soumith Chintala** – TBA
+14:50–15:40| **Skye Wanderman-Milne** – TBA
 15:40–16:20| Coffee break
-16:20–16:40| Contributed talk 4
-16:40–17:00| Contributed talk 5
-17:00–17:20| Contributed talk 6
-17:20–18:00| Panel and general discussion
+16:20–16:40| **Generalized Abs-Linear Learning** [[abstract](https://openreview.net/forum?id=rJg_5AF6LB)]
+16:40–17:00| **Towards Polyhedral Automatic Differentiation** [[abstract](https://openreview.net/forum?id=B1glaOr0US)]
+17:00–17:20| **Taylor-Mode Automatic Differentiation for Higher-Order Derivatives in JAX** [[abstract](https://openreview.net/forum?id=SkxEF3FNPH)]
+17:20–18:00| **Panel** and general discussion
 
 The aim of our workshop is to bridge the gap between several research communities. We will use a format that includes a relatively large number of talks (10) with the aim of covering breadth rather than depth, allowing people from different backgrounds to make relevant connections. The poster session will be the opportunity for small groups to form and discuss topics of interest. The day will conclude with a panel to kickstart discussions that we hope will continue after the workshop has ended (i.e, on how to improve existing ML tooling, or the exploration of modern PL ideas in the context of ML).
 
