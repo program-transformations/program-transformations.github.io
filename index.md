@@ -48,7 +48,7 @@ Time | Activity
 09:50–10:30| Coffee break
 10:30–11:20| **Christine Tasson** – TBA
 11:20–11:40| **The Differentiable Curry** [[abstract](https://openreview.net/forum?id=ryxuz9SzDB)]
-11:40–12:00| Functional Tensors for Probabilistic Programming [[abstract](https://openreview.net/forum?id=HkecHuIaUS)]
+11:40–12:00| **Functional Tensors for Probabilistic Programming** [[abstract](https://openreview.net/forum?id=HkecHuIaUS)]
 12:00–14:00| Lunch and **poster session**
 14:00–14:50| **Soumith Chintala** – TBA
 14:50–15:40| **Skye Wanderman-Milne** – TBA
