@@ -16,6 +16,44 @@ This workshop will bring together researchers in the fields of **AD, probabilist
 - How to overcome challenges due to the ML’s specific hardware (GPUs, specialized chips) and software (Python) stacks, and the particular demands of practitioners for their tools
 - Greater collaboration between ML and programming languages communities
 
+# Schedule
+See the [official schedule](https://neurips.cc/Conferences/2019/Schedule?showEvent=13188).
+
+Time | Activity
+-----|----------
+08:30–08:40| Introduction and opening statements
+08:40–09:30| **Jan-Willem van de Meent** – TBA
+09:30–09:50| **Applications of a disintegration transformations** [[abstract](https://openreview.net/forum?id=r1xwBU5Vwr)]
+09:50–10:30| Coffee break
+10:30–11:20| **Christine Tasson** – TBA
+11:20–11:40| **The Differentiable Curry** [[abstract](https://openreview.net/forum?id=ryxuz9SzDB)]
+11:40–12:00| **Functional Tensors for Probabilistic Programming** [[abstract](https://openreview.net/forum?id=HkecHuIaUS)]
+12:00–14:00| Lunch and **poster session** [[accepted posters](#poster-session)]
+14:00–14:50| **Soumith Chintala** – TBA
+14:50–15:40| **Skye Wanderman-Milne** – TBA
+15:40–16:20| Coffee break
+16:20–16:40| **Generalized Abs-Linear Learning** [[abstract](https://openreview.net/forum?id=rJg_5AF6LB)]
+16:40–17:00| **Towards Polyhedral Automatic Differentiation** [[abstract](https://openreview.net/forum?id=B1glaOr0US)]
+17:00–17:20| **Taylor-Mode Automatic Differentiation for Higher-Order Derivatives in JAX** [[abstract](https://openreview.net/forum?id=SkxEF3FNPH)]
+17:20–18:00| **Panel** and general discussion
+
+The aim of our workshop is to bridge the gap between several research communities. We will use a format that includes a relatively large number of talks (10) with the aim of covering breadth rather than depth, allowing people from different backgrounds to make relevant connections. The poster session will be the opportunity for small groups to form and discuss topics of interest. The day will conclude with a panel to kickstart discussions that we hope will continue after the workshop has ended (i.e, on how to improve existing ML tooling, or the exploration of modern PL ideas in the context of ML).
+
+## Poster session
+
+The following submissions were accepted as posters:
+- *Kotlin∇: A shape-safe DSL for differentiable programming* [[abstract](https://openreview.net/forum?id=SkluMSZ08H)]
+- *Automatic Differentiation: Inverse Accumulation Mode* [[abstract](https://openreview.net/forum?id=Bygj2Ys6IS)]
+- *Differentiation of High-Level Language Semantics* [[abstract](https://openreview.net/forum?id=ryllpA21vB)]
+- *Composable Effects for Flexible and Accelerated Probabilistic Programming in NumPyro* [[abstract](https://openreview.net/forum?id=H1g1niFhIB)]
+- *Dex: array programming with typed indices* [[abstract](https://openreview.net/forum?id=rJxd7vsWPS)]
+- *Transforming Probabilistic Programs into Algebraic Circuits for Inference and Learning* [[abstract](https://openreview.net/forum?id=SygbjU6iBS)]
+- *Transforming recursive programs for parallel execution* [[abstract](https://openreview.net/forum?id=B1lbS82pLS)]
+- *Sparsity Programming: Automated Sparsity-Aware Optimizations in Differentiable Programming* [[abstract](https://openreview.net/forum?id=rJlPdcY38B)]
+- *Approximations in Probabilistic Programs* [[abstract](https://openreview.net/forum?id=H1xM0lu6LS)]
+- *Ad-Hoc Bayesian Program Learning* [[abstract](https://openreview.net/forum?id=H1xiDw_pIr)]
+- *PyMC4: Exploiting Coroutines for Implementing a Probabilistic Programming Framework* [[abstract](https://openreview.net/forum?id=rkgzj5Za8H)]
+
 # Submissions
 We are soliciting contributions bridging the gap between the AD, (P)PL, ML and/or compiler/systems communities. Submissions should be 2 to 4 pages extended abstracts. They do not need to be anonymized. Submissions are non-archival. Work can include:
 - recent work on these topics which was published in non-ML venues;
@@ -36,29 +74,6 @@ The timeline for submissions is as follows:
 
 ## Travel & registration support
 We are planning to get sponsorship funding in order to support a part of the registration and/or travel costs of a number of attendees. If you require such assistance please let the organizers know by sending an email at the time of paper submission. More information will be available in due course.
-
-# Schedule
-See the [official schedule](https://neurips.cc/Conferences/2019/Schedule?showEvent=13188).
-
-Time | Activity
------|----------
-08:30–08:40| Introduction and opening statements
-08:40–09:30| **Jan-Willem van de Meent** – TBA
-09:30–09:50| **Applications of a disintegration transformations** [[abstract](https://openreview.net/forum?id=r1xwBU5Vwr)]
-09:50–10:30| Coffee break
-10:30–11:20| **Christine Tasson** – TBA
-11:20–11:40| **The Differentiable Curry** [[abstract](https://openreview.net/forum?id=ryxuz9SzDB)]
-11:40–12:00| **Functional Tensors for Probabilistic Programming** [[abstract](https://openreview.net/forum?id=HkecHuIaUS)]
-12:00–14:00| Lunch and **poster session**
-14:00–14:50| **Soumith Chintala** – TBA
-14:50–15:40| **Skye Wanderman-Milne** – TBA
-15:40–16:20| Coffee break
-16:20–16:40| **Generalized Abs-Linear Learning** [[abstract](https://openreview.net/forum?id=rJg_5AF6LB)]
-16:40–17:00| **Towards Polyhedral Automatic Differentiation** [[abstract](https://openreview.net/forum?id=B1glaOr0US)]
-17:00–17:20| **Taylor-Mode Automatic Differentiation for Higher-Order Derivatives in JAX** [[abstract](https://openreview.net/forum?id=SkxEF3FNPH)]
-17:20–18:00| **Panel** and general discussion
-
-The aim of our workshop is to bridge the gap between several research communities. We will use a format that includes a relatively large number of talks (10) with the aim of covering breadth rather than depth, allowing people from different backgrounds to make relevant connections. The poster session will be the opportunity for small groups to form and discuss topics of interest. The day will conclude with a panel to kickstart discussions that we hope will continue after the workshop has ended (i.e, on how to improve existing ML tooling, or the exploration of modern PL ideas in the context of ML).
 
 # Access to content
 In order to provide access to the members of the machine learning community who cannot attend NeurIPS in person, we are planning to arrange the video recording of all the talks delivered in the workshop and potentially live stream these on YouTube during the event. We will provide talk summaries, videos, and presentation slides on our workshop website, along with all accepted papers and corresponding posters. We are planning to publish a workshop summary following the event, highlighting the main emerging trends and subjects discussed in our workshop.
