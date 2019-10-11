@@ -1,5 +1,5 @@
 # News
-- Decisions have been sent to the authors, and will be soon available on [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2019/Workshop/Program_Transformations).
+- Decisions are available on [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2019/Workshop/Program_Transformations).
 - The schedule is available [here](#schedule) and on the [official site](https://neurips.cc/Conferences/2019/Schedule?showEvent=13188).
 - The workshop will take place on **Saturday, Dec. 14th**, West Level 1, **Room 114+115**.
 
@@ -29,7 +29,7 @@ Time | Activity
 11:20–11:40| **The Differentiable Curry** [[abstract](https://openreview.net/forum?id=ryxuz9SzDB)]
 11:40–12:00| **Functional Tensors for Probabilistic Programming** [[abstract](https://openreview.net/forum?id=HkecHuIaUS)]
 12:00–14:00| Lunch and **poster session** [[accepted posters](#poster-session)]
-14:00–14:50| **Soumith Chintala** – TBA
+14:00–14:50| **Zachary DeVito** – TBA
 14:50–15:40| **Skye Wanderman-Milne** – TBA
 15:40–16:20| Coffee break
 16:20–16:40| **Generalized Abs-Linear Learning** [[abstract](https://openreview.net/forum?id=rJg_5AF6LB)]
@@ -88,7 +88,7 @@ Another similar effort was started this year at POPL, where the probabilistic pr
 
 **Jan-Willem van de Meent** is an assistant professor at Northeastern University. He is working on probabilistic programming frameworks at the intersection with machine learning, and co-author of [“An Introduction to Probabilistic Programming”](https://arxiv.org/abs/1809.10756).
 
-**Soumith Chintala** is a Researcher at Facebook AI Research, where he works on deep learning, reinforcement learning, generative image models, agents for video games and large-scale high-performance deep learning. Prior to joining Facebook in August 2014, he worked at MuseAmi, where he built deep learning models for music and vision targeted at mobile devices. He holds a Masters in CS from NYU, and spent time in Yann LeCun’s NYU lab building deep learning models for pedestrian detection, natural image OCR, depth-images among others.
+**Zachary DeVito** is a research engineer at Facebook AI Research.
 
 **Christine Tasson** is an associate professor at Université de Paris. Her research areas are at the boundary of Computer Science, Mathematics and Logics. She is interested in denotational semantics and its applications to distributed systems and functional probabilistic programming.
 
