@@ -41,9 +41,8 @@ The aim of our workshop is to bridge the gap between several research communitie
 
 ## Poster session
 
-The following submissions were accepted as posters:
+The following submissions will be presented as posters:
 - *Kotlin∇: A shape-safe DSL for differentiable programming* [[abstract](https://openreview.net/forum?id=SkluMSZ08H)]
-- *Automatic Differentiation: Inverse Accumulation Mode* [[abstract](https://openreview.net/forum?id=Bygj2Ys6IS)]
 - *Differentiation of High-Level Language Semantics* [[abstract](https://openreview.net/forum?id=ryllpA21vB)]
 - *Composable Effects for Flexible and Accelerated Probabilistic Programming in NumPyro* [[abstract](https://openreview.net/forum?id=H1g1niFhIB)]
 - *Dex: array programming with typed indices* [[abstract](https://openreview.net/forum?id=rJxd7vsWPS)]
@@ -76,7 +75,7 @@ The timeline for submissions is as follows:
 We are planning to get sponsorship funding in order to support a part of the registration and/or travel costs of a number of attendees. If you require such assistance please let the organizers know by sending an email at the time of paper submission. More information will be available in due course.
 
 # Access to content
-In order to provide access to the members of the machine learning community who cannot attend NeurIPS in person, we are planning to arrange the video recording of all the talks delivered in the workshop and potentially live stream these on YouTube during the event. We will provide talk summaries, videos, and presentation slides on our workshop website, along with all accepted papers and corresponding posters. We are planning to publish a workshop summary following the event, highlighting the main emerging trends and subjects discussed in our workshop.
+In order to provide access to the members of the machine learning community who cannot attend NeurIPS in person, we will be live streaming and recording all the talks delivered in the workshop, as arranged by the conference. We will provide talk summaries, videos, and presentation slides on our workshop website, along with all accepted papers and corresponding posters. We are planning to publish a workshop summary following the event, highlighting the main emerging trends and subjects discussed in our workshop.
 
 # Previous related workshops
 In the past, we organized a similar workshop on AD for machine learning at NeurIPS [2016](https://autodiff-workshop.github.io/2016.html) and [2017](https://autodiff-workshop.github.io). This year, we are broadening the scope of the workshop to involve more types of semantic program transformations, in particular for probabilistic programming, and hope to attract more experts in programming languages and compiler design as attendees.
