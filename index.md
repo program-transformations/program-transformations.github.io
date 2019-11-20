@@ -23,18 +23,18 @@ Time | Activity
 -----|----------
 08:30–08:40| Introduction and opening statements
 08:40–09:30| **Jan-Willem van de Meent** – TBA
-09:30–09:50| **Applications of a disintegration transformations** [[abstract](https://openreview.net/forum?id=r1xwBU5Vwr)]
+09:30–09:50| Praveen Narayan – **Applications of a disintegration transformations** [[abstract](https://openreview.net/forum?id=r1xwBU5Vwr)]
 09:50–10:30| Coffee break
 10:30–11:20| **Christine Tasson** – TBA
-11:20–11:40| **The Differentiable Curry** [[abstract](https://openreview.net/forum?id=ryxuz9SzDB)]
-11:40–12:00| **Functional Tensors for Probabilistic Programming** [[abstract](https://openreview.net/forum?id=HkecHuIaUS)]
+11:20–11:40| Dimitrios Vytiniotis – **The Differentiable Curry** [[abstract](https://openreview.net/forum?id=ryxuz9SzDB)]
+11:40–12:00| Fritz Obermeyer – **Functional Tensors for Probabilistic Programming** [[abstract](https://openreview.net/forum?id=HkecHuIaUS)]
 12:00–14:00| Lunch and **poster session** [[accepted posters](#poster-session)]
-14:00–14:50| **Zachary DeVito** – TBA
+14:00–14:50| **Zachary DeVito** – **Optimized execution of PyTorch programs with TorchScript**
 14:50–15:40| **Skye Wanderman-Milne** – TBA
 15:40–16:20| Coffee break
-16:20–16:40| **Generalized Abs-Linear Learning** [[abstract](https://openreview.net/forum?id=rJg_5AF6LB)]
-16:40–17:00| **Towards Polyhedral Automatic Differentiation** [[abstract](https://openreview.net/forum?id=B1glaOr0US)]
-17:00–17:20| **Taylor-Mode Automatic Differentiation for Higher-Order Derivatives in JAX** [[abstract](https://openreview.net/forum?id=SkxEF3FNPH)]
+16:20–16:40| Andreas Griewank – **Generalized Abs-Linear Learning** [[abstract](https://openreview.net/forum?id=rJg_5AF6LB)]
+16:40–17:00| Jan Hückelheim – **Towards Polyhedral Automatic Differentiation** [[abstract](https://openreview.net/forum?id=B1glaOr0US)]
+17:00–17:20| Jesse Bettencourt – **Taylor-Mode Automatic Differentiation for Higher-Order Derivatives in JAX** [[abstract](https://openreview.net/forum?id=SkxEF3FNPH)]
 17:20–18:00| **Panel** and general discussion
 
 The aim of our workshop is to bridge the gap between several research communities. We will use a format that includes a relatively large number of talks (10) with the aim of covering breadth rather than depth, allowing people from different backgrounds to make relevant connections. The poster session will be the opportunity for small groups to form and discuss topics of interest. The day will conclude with a panel to kickstart discussions that we hope will continue after the workshop has ended (i.e, on how to improve existing ML tooling, or the exploration of modern PL ideas in the context of ML).
