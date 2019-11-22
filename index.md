@@ -29,8 +29,8 @@ Time | Activity
 11:20–11:40| Dimitrios Vytiniotis – **The Differentiable Curry** [[abstract](https://openreview.net/forum?id=ryxuz9SzDB)]
 11:40–12:00| Fritz Obermeyer – **Functional Tensors for Probabilistic Programming** [[abstract](https://openreview.net/forum?id=HkecHuIaUS)]
 12:00–14:00| Lunch and **poster session** [[accepted posters](#poster-session)]
-14:00–14:50| **Zachary DeVito** – **Optimized execution of PyTorch programs with TorchScript**
-14:50–15:40| **Skye Wanderman-Milne** – TBA
+14:00–14:50| *Zachary DeVito* – **Optimized execution of PyTorch programs with TorchScript**
+14:50–15:40| *Skye Wanderman-Milne* – **JAX: accelerated machine-learning research via composable function transformations in Python**
 15:40–16:20| Coffee break
 16:20–16:40| Andreas Griewank – **Generalized Abs-Linear Learning** [[abstract](https://openreview.net/forum?id=rJg_5AF6LB)]
 16:40–17:00| Jan Hückelheim – **Towards Polyhedral Automatic Differentiation** [[abstract](https://openreview.net/forum?id=B1glaOr0US)]
