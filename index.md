@@ -23,7 +23,7 @@ Time | Activity
 -----|----------
 08:30–08:40| Introduction and opening statements
 08:40–09:30| *Jan-Willem van de Meent* – **Compositional Methods for Learning and Inference in Deep Probabilistic Programs**
-09:30–09:50| Praveen Narayan – **Applications of a disintegration transformations** [[abstract](https://openreview.net/forum?id=r1xwBU5Vwr)]
+09:30–09:50| Praveen Narayanan – **Applications of a disintegration transformations** [[abstract](https://openreview.net/forum?id=r1xwBU5Vwr)]
 09:50–10:30| Coffee break
 10:30–11:20| *Christine Tasson* – **Semantics of Functional Probabilistic Programs**
 11:20–11:40| Dimitrios Vytiniotis – **The Differentiable Curry** [[abstract](https://openreview.net/forum?id=ryxuz9SzDB)]
